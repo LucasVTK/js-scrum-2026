@@ -1,2 +1,2 @@
 # js-scrum-2026
-Aula de VScode com metodologia ágil
+Aula de VS code e GitHub com metodologia ágil
